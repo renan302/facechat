@@ -1,6 +1,6 @@
 # facechat
 >Relationship Chat Open Source
->This is an open source chat, developed using the latest cutting edge technologies on the market. We designed this project to use three micro services: > >ChatService, UserService and FileService.
+>This is an open source chat, developed using the latest cutting edge technologies on the market. We designed this project to use three micro services: ChatService, UserService and FileService.
 >
 >ChatService: This service was developed using Node.js with mongodb and is used to mediate conversations between users through socket.io.
 >
