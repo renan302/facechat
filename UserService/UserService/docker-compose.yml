@@ -23,8 +23,8 @@ services:
         ports:
             - 8183:80
         environment:
-            - MYSQL_USER=root
-            - MYSQL_ROOT_PASSWORD=root
+            - MYSQL_USER='root'
+            - MYSQL_ROOT='root'
         networks:
           - app-tier
     redis:

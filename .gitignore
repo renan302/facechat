@@ -260,9 +260,6 @@ ServiceFabricBackup/
 # Microsoft Fakes
 FakesAssemblies/
 
-mysql-datavolume/
-redis-persistence/
-
 # GhostDoc plugin setting file
 *.GhostDoc.xml
 
